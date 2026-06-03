@@ -30,11 +30,13 @@ ChatAI is a cutting-edge conversational AI platform that combines the power of G
 - 🔐 **Secure** - Environment-based API key management
 - 📱 **Responsive** - Works seamlessly on all devices
 - ⚡ **Optimized** - Fast load times and smooth interactions
+- 🌙 **Dark Mode** - Built-in dark theme for comfortable usage
+- 💾 **Local Storage** - Preserves chat history across sessions
 
 ## 🛠 Tech Stack
 
 | Component | Technology |
-|-----------|-----------|
+|-----------|-------------|
 | **Framework** | Next.js 14+ |
 | **UI Library** | React 18+ |
 | **Styling** | Tailwind CSS |
@@ -119,6 +121,7 @@ ChatAI/
 - ⚡ Optimized bundle size < 200KB
 - 🎯 Lighthouse Score: 90+
 - 📊 First Contentful Paint: < 1.5s
+- 🔄 Streaming response latency: < 500ms
 
 ## 📝 License
 
